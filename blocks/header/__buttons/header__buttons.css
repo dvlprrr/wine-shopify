@@ -1,0 +1,7 @@
+.header__buttons {
+  font-family: "Montserrat";
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  margin: 460px auto;
+}

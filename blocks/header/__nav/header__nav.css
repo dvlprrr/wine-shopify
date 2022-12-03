@@ -1,0 +1,8 @@
+.header__nav {
+  font-family: "Montserrat";
+  font-weight: 400;
+  display: flex;
+  margin: 20px auto 0;
+  width: 1110px;
+  justify-content: space-between;
+}

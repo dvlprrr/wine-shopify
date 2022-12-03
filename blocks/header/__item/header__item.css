@@ -1,0 +1,11 @@
+.header__item {
+  color: #ffffff;
+  font-size: 14px;
+  text-decoration: none;
+  padding: 15px 105px;
+  border: 1px solid white;
+  border-left: none;
+}
+.header__item:last-child {
+  border-right: none;
+}

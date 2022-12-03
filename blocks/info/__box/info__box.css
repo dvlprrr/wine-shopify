@@ -1,0 +1,9 @@
+.info__box {
+  margin: 0 auto;
+  width: 900px;
+  display: block;
+  border: 3px solid #c4c4c4;
+  text-align: center;
+  color: white;
+  padding: 60px 50px;
+}
