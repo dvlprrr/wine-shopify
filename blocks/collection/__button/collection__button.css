@@ -1,0 +1,11 @@
+.collection__button {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 16px;
+  background-color: #99862a;
+  color: #ffffff;
+  border: none;
+  padding: 15px 30px;
+  cursor: pointer;
+  margin-top: 30px;
+}

@@ -1,0 +1,6 @@
+.collection__item:first-child {
+  margin-bottom: 30px;
+}
+.collection__item:last-child {
+  margin-left: 30px;
+}

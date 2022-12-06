@@ -13,5 +13,44 @@
 @import url(../blocks/info/__box/info__box.css);
 @import url(../blocks/info/info.css);
 @import url(../blocks/info/__title/info__title.css);
-@import url(../blocks/info/__border/info__border.css);
 @import url(../blocks/info/__text/info__text.css);
+/* main collection */
+@import url(../blocks/collection/collection.css);
+@import url(../blocks/collection/__content/collection__content.css);
+@import url(../blocks/collection/__title/collection__title.css);
+@import url(../blocks/collection/__date/collection__date.css);
+@import url(../blocks/collection/__description/collection__description.css);
+@import url(../blocks/collection/__list/collection__list.css);
+@import url(../blocks/collection/__year/collection__year.css);
+@import url(../blocks/collection/__about/collection__about.css);
+@import url(../blocks/collection/__model/collection__model.css);
+@import url(../blocks/collection/__definition/collection__definition.css);
+@import url(../blocks/collection/__button/collection__button.css);
+@import url(../blocks/collection/__line/collection__line.css);
+@import url(../blocks/collection/__definition/_type/_no-border-bot/collection__definition_type_no-border-bot.css);
+@import url(../blocks/collection/__year/_type/_no-border-bot/collection__year_type_no-border-bot.css);
+@import url(../blocks/collection/__image/collection__image.css);
+@import url(../blocks/collection/__item/collection__item.css);
+/* main form */
+@import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/degustation/degustation.css);
+@import url(../blocks/form/__text/form__text.css);
+@import url(../blocks/form/__content/form__content.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__information/form__information.css);
+@import url(../blocks/form/__main/form__main.css);
+@import url(../blocks/form/__registration/form__registration.css);
+@import url(../blocks/form/__contacts/form__contacts.css);
+@import url(../blocks/form/__input/_type/_address/form__input_type_address.css);
+@import url(../blocks/form/__button/form__button.css);
+@import url(../blocks/form/__image/form__image.css);
+@import url(../blocks/form/__image/_type/_right/form__image_type_right.css);
+@import url(../blocks/form/__image/_type/left/form__image_type_left.css);
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__contacts/footer__contacts.css);
+@import url(../blocks/footer/__link/_type/_bold/footer__link_type_bold.css);
+@import url(../blocks/footer/__icon/footer__icon.css);

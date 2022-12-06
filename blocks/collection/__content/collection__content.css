@@ -1,0 +1,9 @@
+.collection__content {
+  border: 1px solid #998431;
+  border-right: none;
+  border-left: none;
+  max-width: 1110px;
+  padding: 60px 0;
+  margin: 0 auto;
+  display: flex;
+}

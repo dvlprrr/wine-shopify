@@ -1,0 +1,6 @@
+.form__contacts {
+  width: 540px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
